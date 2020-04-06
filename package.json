@@ -1,14 +1,27 @@
 {
-  "name": "mongodb-",
+  "name": "mongodb-nodejs-native",
   "version": "1.0.0",
-  "description": "",
+  "description": "Seguindo a documentação",
   "main": "example01.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Flávio Micheletti",
   "license": "ISC",
   "dependencies": {
     "mongodb": "^3.5.5"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flaviomicheletti/mongodb-nodejs-native.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb"
+  ],
+  "bugs": {
+    "url": "https://github.com/flaviomicheletti/mongodb-nodejs-native/issues"
+  },
+  "homepage": "https://github.com/flaviomicheletti/mongodb-nodejs-native#readme"
 }
